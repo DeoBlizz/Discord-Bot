@@ -3,6 +3,6 @@ Created a Discord Bot using python
 
 Features:
 
-Able to do basic math
+Basic Math Calculator
 
 MORE FEATURES COMING SOON
