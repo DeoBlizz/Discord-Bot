@@ -1,7 +1,7 @@
 # Discord-Bot
 Created a Discord Bot using python
 
-Features:\n
+Features:
 
 Able to do basic math
 
